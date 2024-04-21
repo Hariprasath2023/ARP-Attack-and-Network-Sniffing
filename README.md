@@ -1,8 +1,6 @@
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
-Name:Hari prasath.R.K
-Reg no:212223040055
-dept: CSE
+
 
 # AIM:
 
